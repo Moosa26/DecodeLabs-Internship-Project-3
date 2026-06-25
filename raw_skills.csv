@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Statistics Data_Analysis NumPy Pandas Scikit_Learn TensorFlow Data_Visualization
+Machine Learning Engineer,Python TensorFlow PyTorch Deep_Learning Scikit_Learn NumPy Model_Deployment MLOps Docker Kubernetes
+Data Analyst,SQL Excel Power_BI Tableau Data_Visualization Statistics Python Pandas Data_Cleaning Reporting
+Backend Developer,Python Java SQL REST_APIs Node_JS Docker Git Databases PostgreSQL Redis
+Frontend Developer,JavaScript React HTML CSS TypeScript Redux Git REST_APIs Node_JS UI_UX
+Full Stack Developer,JavaScript React Node_JS Python SQL HTML CSS Docker Git REST_APIs
+DevOps Engineer,Docker Kubernetes AWS CI_CD Linux Git Ansible Terraform Monitoring Shell_Scripting
+Cloud Architect,AWS Azure GCP Cloud_Computing Docker Kubernetes Networking Security DevOps Terraform
+Cybersecurity Analyst,Network_Security Ethical_Hacking Linux Python SQL Penetration_Testing Cryptography Firewalls SIEM Incident_Response
+NLP Engineer,Python NLP Deep_Learning TensorFlow PyTorch Text_Processing BERT Transformers Scikit_Learn NumPy
+Computer Vision Engineer,Python OpenCV Deep_Learning TensorFlow PyTorch CNN Image_Processing NumPy CUDA Model_Deployment
+Data Engineer,Python SQL Spark Hadoop ETL Airflow AWS PostgreSQL Kafka Data_Pipelines
+Blockchain Developer,Solidity Ethereum Web3 JavaScript Smart_Contracts Cryptography Node_JS Python Git Docker
+Mobile Developer,Flutter Dart React_Native JavaScript Java Android iOS Swift Git REST_APIs
+AI Research Scientist,Python Deep_Learning TensorFlow PyTorch Mathematics Statistics Research NLP Computer_Vision Publications
+System Administrator,Linux Windows_Server Networking Shell_Scripting Docker VMware Active_Directory Security Monitoring Backup
+Database Administrator,SQL PostgreSQL MySQL Oracle MongoDB Redis Database_Design Query_Optimization Backup Security
+Site Reliability Engineer,Python Go Linux Docker Kubernetes Monitoring CI_CD Automation AWS Shell_Scripting
+Embedded Systems Engineer,C C++ Microcontrollers RTOS Arduino Raspberry_Pi Electronics Assembly IoT Linux
+IoT Developer,Python C Arduino Raspberry_Pi MQTT IoT Networking Embedded REST_APIs Cloud_Computing
