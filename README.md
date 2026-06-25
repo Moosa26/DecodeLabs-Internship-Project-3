@@ -135,4 +135,4 @@ For the User Cold Start problem, the system enforces a minimum of three skill in
 
 ## Author
 
-Built as part of the DecodeLabs AI Industrial Training Program, Batch 2026.
+Built by Muhammad Moosa Hasan as part of the DecodeLabs AI Industrial Training Program, Batch 2026.
